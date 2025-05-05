@@ -1,2 +1,2 @@
 # EDM
-This is Verry unsecure, please do not use this!
+List of allowed users
